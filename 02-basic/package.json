@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^20.4.2"
+  },
+  "name": "02-basic",
+  "version": "1.0.0",
+  "description": "typescript section 2",
+  "main": "index.js",
+  "license": "MIT"
+}
