@@ -1,7 +1,5 @@
 // 기본 타입 간 호환성
 
-import { type } from 'os';
-
 let num1: number = 10;
 let num2: 10 = 10;
 
